@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prologWebAplication", "prologWebAplication\prologWebAplication.csproj", "{6934E0D7-A752-42BC-8737-BC2383407B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consoleAplicationProlog", "consoleAplicationProlog\consoleAplicationProlog.csproj", "{59C68F5B-02F6-4F4C-87A9-1BE8AEA9E187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6934E0D7-A752-42BC-8737-BC2383407B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6934E0D7-A752-42BC-8737-BC2383407B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6934E0D7-A752-42BC-8737-BC2383407B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6934E0D7-A752-42BC-8737-BC2383407B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C68F5B-02F6-4F4C-87A9-1BE8AEA9E187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C68F5B-02F6-4F4C-87A9-1BE8AEA9E187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C68F5B-02F6-4F4C-87A9-1BE8AEA9E187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C68F5B-02F6-4F4C-87A9-1BE8AEA9E187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
